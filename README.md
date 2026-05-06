@@ -5,4 +5,4 @@ A list of gemini skills u can use :)
 This provides a alternative for planning on Gemini cli
 
 **2.Humanizer:**
-This adds some set of instructions for the ai to feel more "Human"
+This adds a set of instructions for the AI to feel more "Human"
