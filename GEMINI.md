@@ -1,4 +1,4 @@
-## What prioties should be classified
-**Low priority**:Grammar errors
-**medium priority**:Syntax errors
-**High and above priority**:Complex errors as logic not working etc
+## Priority Classification
+**Low Priority**: Grammar errors
+**Medium Priority**: Syntax errors
+**High Priority**: Complex errors (e.g., logical errors, incorrect functionality)
