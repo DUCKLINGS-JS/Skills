@@ -1,5 +1,5 @@
 # Skills
-A list of gemini skills u can use :) 
+A list of Gemini skills you can use :)
 
 **1.Analyzer:**
 This provides an alternative for planning on Gemini CLI
